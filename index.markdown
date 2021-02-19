@@ -98,7 +98,7 @@ Re-arrange the blocks below so they will add two numbers and then print out the 
 
 
 ## Parsons 3 - Basic If Statements
-Re-arrange the blocks below so that if the age is over 18 it will display you can vote. You can indent the code by dragging the code to the right.
+Re-arrange the blocks below so that if the age is over 18 it will display you can vote. You can indent the line of by dragging the code to the right.
 <div id="N5Python3-sortableTrash" class="sortable-code"></div>
 <div id="N5Python3-sortable" class="sortable-code"></div>
 <div style="clear:both;"></div>
